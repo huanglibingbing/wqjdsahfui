@@ -1,0 +1,7 @@
+#include<stdio.h>
+void work(){
+	printf("goodnight everybody !");
+}
+void main(){
+	work();
+}
