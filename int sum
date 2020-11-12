@@ -1,0 +1,7 @@
+#include<stdio.h>
+int sum(){
+	return(20200607);
+}
+void main(){
+	printf("%d\n",sum());
+}
